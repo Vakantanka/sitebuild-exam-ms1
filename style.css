@@ -52,6 +52,7 @@ section button {
 
 .section2 button {
 	bottom: 40px;
-	right: 40px;
 	background-color: #005B44;
+	left: 50%;
+	transform: translate(-50%, 0);
 }
